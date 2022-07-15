@@ -133,8 +133,6 @@ body {
   color: var(--black-main-color);
 }
 .container-text {
-  font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
@@ -177,7 +175,6 @@ body {
   color: var(--black-main-color);
 }
 .team-position {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
@@ -210,7 +207,6 @@ body {
 
 .address-list {
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
@@ -258,7 +254,6 @@ body {
   color: var(--black-main-color);
 }
 .project-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.9;
   letter-spacing: 0.03em;
